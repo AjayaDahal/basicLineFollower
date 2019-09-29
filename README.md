@@ -1,5 +1,5 @@
 # basicLineFollower
-Arduino and L239D motor.
+Arduino and L293D motor.
 
 
 Please visit for more detail: 
